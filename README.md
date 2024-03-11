@@ -1,16 +1,13 @@
-### Hi there 👋
+# Halló 👋, ég heiti Sturla!
 
-<!--
-**sturla-freyr/sturla-freyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Ég er nemandi í tölvunarfræði við Háskóla Íslands, að vinna að BSc.
 
-Here are some ideas to get you started:
+🔍 Ég hef sérstakan áhuga á forritun, gagnavísindum og hugbúnaðarþróun, með áherslu á að beita nýsköpun og tæknilausnum við flókin vandamál í raunveruleikanum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Ég er stöðugt að læra og bæta við mig þekkingu, sérstaklega í Vefforritun/Netöryggi, Tauganetum, IOT, Rust og C/C++.
+
+👥 Ég leita stöðugt að tækifærum til að vinna að verkefnum með öðrum, hvort sem er í skólanum eða á öðrum vettvangi.
+
+📫 Hægt er að ná í mig í gegnum sfm1@hi.is fyrir frekari upplýsingar eða tækifæri til samstarfs.
+
+Takk fyrir að heimsækja githubið mitt!
